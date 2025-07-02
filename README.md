@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## Soy Diseñador Web Front-End
+ Soy Diseñador Web Front-End
 
 - 👨‍💻 Actualmente trabajo en mini Proyectos para aumentar mi aprendizaje y experiencia
 - 📚 Estoy aprendiendo todo sobre tecnologias Front y back 😅
